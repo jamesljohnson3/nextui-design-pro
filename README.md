@@ -4,7 +4,7 @@
 <div align="center" id="top">
   <a href="https://github.com/wangly19/nextui-design-pro">
     <img src="https://user-images.githubusercontent.com/45115006/211765718-ccc02f31-03ba-49c7-a06e-acade86fca30.svg" alt="Logo" width="80" height="80">
-  </a>
+  </a>k
 
   <h2 align="center">NextUI Design Pro</h2>
   The best practices for React NextUI + Formik + zustand 🚀<br>
